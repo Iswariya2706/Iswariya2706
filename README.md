@@ -10,62 +10,66 @@
 
 ---
 
-### 🧑‍💻 About Me
-```diff
-+ Passionate builder of smart, sustainable tech solutions!
-🎓 B.Tech in Computer Science @ SRM IST | CGPA: 8.8
+### 🏆 Achievements That Define Me
 
-🧠 Research in TabNet, XGBoost, Quantum ML, and AI for Sustainability
+<p align="left">
+  <img src="https://img.shields.io/badge/-🏅%20Build%20with%20India%20Semi--finalist-blueviolet?style=flat-square" />
+  <br>📌 Developed an ESG Compliance Guardian using <b>AI + RAG</b> to ensure transparency and compliance in corporate reporting.
+</p>
 
-🌎 Developer of real-world applications for climate action & data science
+<p align="left">
+  <img src="https://img.shields.io/badge/-🥈%20Top%202%25%20Walmart%20CodeHers%202025-ff69b4?style=flat-square" />
+  <br>📌 Ranked in the <b>top 2%</b> among thousands of participants in Walmart’s national-level tech contest.
+</p>
 
-🏆 Top 2% @ Walmart CodeHers | Semi-finalist @ Build with India, AIWOS
-
-🔬 Featured Projects
-<table> <tr> <td><b>🌱 Climate Navigator</b></td> <td><b>📈 SEO Optimizer</b></td> <td><b>🛒 Amazon Dashboard</b></td> </tr> <tr> <td> <ul> <li>Carbon Footprint Calculator (AI + Plotly)</li> <li>Personalized suggestions to reduce CO₂</li> <li><a href="https://github.com/Iswariya2706/CLIMATE-NAVIGATOR">Repo</a></li> </ul> </td> <td> <ul> <li>BERT + Feedback for better search</li> <li>CTR improvement via NLP insights</li> <li><i>Private project (request access)</i></li> </ul> </td> <td> <ul> <li>Sales trend analysis with Power BI</li> <li>Built interactive visuals using SQL + DAX</li> <li><a href="https://github.com/Iswariya2706/PowerBI-Projects">Repo</a></li> </ul> </td> </tr> </table>
-🛠️ My Tech Toolbox
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" /> </p>
-📜 Certifications & Recognition
-✅ Google Data Analytics – Coursera
-
-✅ Prompt Engineering – Coursera
-
-✅ Python for Data Science – NPTEL
-
-🥇 Walmart CodeHers – Top 2%
-
-🏆 Build with India – Semi-finalist (ESG AI Guardian)
-
-🥈 AIWOS – Semi-finalist (Urban groundwater AI)
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Iswariya2706&show_icons=true&theme=radical&hide=prs" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iswariya2706&theme=radical" height="165"/> </p>
-🌍 Let’s Build Something Meaningful Together!
-🔗 Portfolio: iswariya2706.github.io/Portfolio
-
-📫 Reach out: iswariya0304@gmail.com
-
-💬 I'm open to internships, collaborations, and research opportunities in:
-
-AI/ML for social good
-
-Climate change & sustainability
-
-NLP, Computer Vision, Data Visualization
-
-💡 "Let's build for impact — where every line of code helps the planet, people, and the future."
-
-yaml
-Copy
-Edit
+<p align="left">
+  <img src="https://img.shields.io/badge/-🥉%20AIWOS%20Semi--finalist-success?style=flat-square" />
+  <br>📌 Built an AI platform for <b>urban groundwater recharge planning</b> to address environmental sustainability.
+</p>
 
 ---
 
-### ✅ Want Extra Enhancements?
+### 🛠️ My Technical Toolbox
 
-Let me know if you'd like to:
-- Create a **banner image** for the top
-- Add **dynamic GitHub trophies**
-- Zip and send you the README + images for easier upload
+<div align="left">
 
-Just say the word, and I’ll help you finish it strong!
+#### 👩‍💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+#### 🔧 Frameworks & Libraries
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+#### 🧰 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+#### 🧠 Data & Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+
+#### 📊 Data Visualization
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-76B900?style=flat-square" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+</div>
+
+---
+
