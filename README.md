@@ -10,34 +10,33 @@
 
 ---
 
-### 👩‍💻 About Me
+### 🧑‍💻 About Me
 
-Hi there! I’m **Iswariya S**, a passionate and detail-driven B.Tech Computer Science student at **SRM IST, Chennai** (CGPA: 8.8).
+Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Science student at SRM IST, Chennai (CGPA: 8.8), passionate about building impactful digital solutions.
 
-I build purposeful technology that blends **data**, **design**, and **development** to solve real-world problems.
+💡 I specialize in:
+- 🔍 **Data Science** — extracting insights using ML/AI, data visualization, and predictive modeling.
+- 💻 **Frontend Development** — designing elegant, responsive UIs using HTML, CSS, Bootstrap, and JavaScript.
+- 🌐 **Full Stack Projects** — integrating intelligent backends (Python, Flask, SQL) with clean frontends to build complete, usable tools.
 
-🔧 **Areas I specialize in**:
-- 🔍 **Data Science** – ML/AI models, predictive analytics, and data storytelling  
-- 💻 **Frontend Development** – Modern, responsive UI using HTML, CSS, Bootstrap  
-- 🌐 **Full Stack Engineering** – Building intelligent, end-to-end apps with Flask, Python & SQL  
+🔬 With hands-on experience in **AI-driven sustainability projects**, **SEO optimization tools**, and **business dashboards**, I bring together creativity, logic, and purpose in every project I build.
 
-🔬 I'm especially drawn to projects at the intersection of **sustainability**, **AI**, and **community impact**.
+⚙️ I love solving real-world problems, especially at the intersection of **data, design, and development** — and I’m always learning more to push what’s possible.
 
 ---
-
 ### 🚀 Hackathon Experience
 
 🏅 **IBMZ Hackathon – Finalist**  
-→ Developed *Climate Impact Navigator*, a carbon footprint calculator using AI for sustainable awareness.
+→ Developed **Climate Impact Navigator**, an AI-powered carbon footprint calculator focused on sustainability and awareness.
 
 🌊 **All India Women Only Startathon**  
-→ Designed an AI-powered urban groundwater recharge planning platform using soil-concrete ratio modeling.
+→ Designed an **AI platform for groundwater recharge** through intelligent urban planning and soil-concrete ratio modeling.
 
-⚙️ **DevTrails Hackathon by Guidewire**  
-→ Created an AI-based predictive monitoring & self-healing system for Kubernetes clusters.
+⚙️ **DevTrails University Hackathon – Guidewire**  
+→ Built an **AI-Driven Predictive Monitoring & Autonomous Remediation system** for Kubernetes clusters.
 
 📊 **Build with India – Semi-finalist**  
-→ Built an ESG Compliance Guardian using **Retrieval-Augmented Generation (RAG)** for sustainability analysis.
+→ Created an **ESG Compliance Guardian** using Retrieval-Augmented Generation (RAG) to analyze and ensure regulatory adherence in sustainability reports.
 
 ---
 
@@ -45,36 +44,38 @@ I build purposeful technology that blends **data**, **design**, and **developmen
 
 <p align="left">
   <img src="https://img.shields.io/badge/-🏅%20Build%20with%20India%20Semi--finalist-blueviolet?style=flat-square" />
-  <br>📌 ESG Compliance Guardian using <b>AI + RAG</b> for corporate transparency.
+  <br>📌 Developed an ESG Compliance Guardian using <b>AI + RAG</b> to ensure transparency and compliance in corporate reporting.
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-🥈%20Top%202%25%20Walmart%20CodeHers%202025-ff69b4?style=flat-square" />
-  <br>📌 Among the top 2% of India’s brightest women tech talents.
+  <br>📌 Ranked in the <b>top 2%</b> among thousands of participants in Walmart’s national-level tech contest.
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-🥉%20AIWOS%20Semi--finalist-success?style=flat-square" />
-  <br>📌 AI-powered groundwater recharge project selected for innovation.
+  <br>📌 Built an AI platform for <b>urban groundwater recharge planning</b> to address environmental sustainability.
 </p>
 
 ---
 
 ### 🛠️ My Technical Toolbox
 
-#### 👩‍💻 Languages  
+<div align="left">
+
+#### 👩‍💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-#### 🔧 Frameworks & Libraries  
+#### 🔧 Frameworks & Libraries
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
-#### 🧰 Tools & Platforms  
+#### 🧰 Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -82,12 +83,12 @@ I build purposeful technology that blends **data**, **design**, and **developmen
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-#### 🧠 Data & Databases  
+#### 🧠 Data & Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
 
-#### 📊 Data Visualization  
+#### 📊 Data Visualization
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
@@ -98,13 +99,14 @@ I build purposeful technology that blends **data**, **design**, and **developmen
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 
----
-
-### 🔎 Currently Open To:
-
-- 💼 **Internships or full-time roles** in **Data Science**, **Frontend**, or **Full Stack** development  
-- 🤝 Collaborations on **AI for sustainability**, **social good**, and **innovation-driven hackathons**
+</div>
 
 ---
 
-> 💬 *Let’s build something meaningful — with code that informs, inspires, and drives change.*
+📌 I’m currently looking for:
+- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development.
+- 🤝 Collaborations on impactful, purpose-driven tech projects.
+
+Let’s build something great — with **code that informs, inspires, and drives change**.
+
+---
