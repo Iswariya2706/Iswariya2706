@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Iswariya S</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🧠 Researcher | 📊 Data Analyst | 🌱 Climate Tech Innovator</h3>
+<h3 align="center">📊 Data Analyst | 🚀 AI/ML Enthusiast | </> Front-end Developer | 🌱 Sustainability-Driven Tech Innovator | 👩🏻‍💻 Active Researcher</h3>
 
 <p align="center">
   <a href="mailto:iswariya0304@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Science student at SRM IST, Chennai (CGPA: 8.8), passionate about building impactful digital solutions.
+Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Science student at SRM IST, Chennai, passionate about building impactful digital solutions.
 
 💡 I specialize in:
 - 🔍 **Data Science** — extracting insights using ML/AI, data visualization, and predictive modeling.
