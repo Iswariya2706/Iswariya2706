@@ -9,7 +9,6 @@
 </p>
 
 ---
----
 
 ### 🧑‍💻 About Me
 
@@ -24,14 +23,22 @@ Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Sci
 
 ⚙️ I love solving real-world problems, especially at the intersection of **data, design, and development** — and I’m always learning more to push what’s possible.
 
-📌 I’m currently looking for:
-- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development.
-- 🤝 Collaborations on impactful, purpose-driven tech projects.
+---
+### 🚀 Hackathon Experience
 
-Let’s build something great — with **code that informs, inspires, and drives change**.
+🏅 **IBMZ Hackathon – Finalist**  
+→ Developed **Climate Impact Navigator**, an AI-powered carbon footprint calculator focused on sustainability and awareness.
+
+🌊 **All India Women Only Startathon**  
+→ Designed an **AI platform for groundwater recharge** through intelligent urban planning and soil-concrete ratio modeling.
+
+⚙️ **DevTrails University Hackathon – Guidewire**  
+→ Built an **AI-Driven Predictive Monitoring & Autonomous Remediation system** for Kubernetes clusters.
+
+📊 **Build with India – Semi-finalist**  
+→ Created an **ESG Compliance Guardian** using Retrieval-Augmented Generation (RAG) to analyze and ensure regulatory adherence in sustainability reports.
 
 ---
-
 
 ### 🏆 Achievements That Define Me
 
@@ -96,3 +103,10 @@ Let’s build something great — with **code that informs, inspires, and drives
 
 ---
 
+📌 I’m currently looking for:
+- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development.
+- 🤝 Collaborations on impactful, purpose-driven tech projects.
+
+Let’s build something great — with **code that informs, inspires, and drives change**.
+
+---
