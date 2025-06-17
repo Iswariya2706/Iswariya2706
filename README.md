@@ -9,6 +9,29 @@
 </p>
 
 ---
+---
+
+### 🧑‍💻 About Me
+
+Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Science student at SRM IST, Chennai (CGPA: 8.8), passionate about building impactful digital solutions.
+
+💡 I specialize in:
+- 🔍 **Data Science** — extracting insights using ML/AI, data visualization, and predictive modeling.
+- 💻 **Frontend Development** — designing elegant, responsive UIs using HTML, CSS, Bootstrap, and JavaScript.
+- 🌐 **Full Stack Projects** — integrating intelligent backends (Python, Flask, SQL) with clean frontends to build complete, usable tools.
+
+🔬 With hands-on experience in **AI-driven sustainability projects**, **SEO optimization tools**, and **business dashboards**, I bring together creativity, logic, and purpose in every project I build.
+
+⚙️ I love solving real-world problems, especially at the intersection of **data, design, and development** — and I’m always learning more to push what’s possible.
+
+📌 I’m currently looking for:
+- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development.
+- 🤝 Collaborations on impactful, purpose-driven tech projects.
+
+Let’s build something great — with **code that informs, inspires, and drives change**.
+
+---
+
 
 ### 🏆 Achievements That Define Me
 
