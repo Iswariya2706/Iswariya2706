@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Iswariya2706/Iswariya2706/blob/main/banner.png" alt="Iswariya S Banner" /> 
+</p>
+
 <h1 align="center">Hi 👋 I'm Iswariya S</h1>
 <h3 align="center">📊 Data Analyst | 🚀 AI/ML Enthusiast | 💻 Front-end Developer | 🌱 Sustainability-Driven Tech Innovator</h3>   
 <h3 align="center">👩🏻‍💻 Active Researcher</h3>
