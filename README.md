@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Iswariya S</h1>
-<h3 align="center">📊 Data Analyst | 🚀 AI/ML Enthusiast | </> Front-end Developer | 🌱 Sustainability-Driven Tech Innovator | </h3>   
+<h3 align="center">📊 Data Analyst | 🚀 AI/ML Enthusiast | 💻 Front-end Developer | 🌱 Sustainability-Driven Tech Innovator</h3>   
 <h3 align="center">👩🏻‍💻 Active Researcher</h3>
 
 <p align="center">
@@ -25,6 +25,7 @@ Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Sci
 ⚙️ I love solving real-world problems, especially at the intersection of **data, design, and development** — and I’m always learning more to push what’s possible.
 
 ---
+
 ### 🚀 Hackathon Experience
 
 🏅 **IBMZ Hackathon – Finalist**  
@@ -64,19 +65,22 @@ Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Sci
 
 <div align="left">
 
-#### 👩‍💻 Languages
+#### 👩‍💻 Languages  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-#### 🔧 Frameworks & Libraries
+#### 🔧 Frameworks & Libraries  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
-#### 🧰 Tools & Platforms
+#### 🧰 Tools & Platforms  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -84,12 +88,12 @@ Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Sci
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-#### 🧠 Data & Databases
+#### 🧠 Databases  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
 
-#### 📊 Data Visualization
+#### 📊 Data Visualization  
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
@@ -104,10 +108,11 @@ Hi there! I’m **Iswariya S**, a driven and detail-oriented B.Tech Computer Sci
 
 ---
 
-📌 I’m currently looking for:
-- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development.
-- 🤝 Collaborations on impactful, purpose-driven tech projects.
+### 📌 I’m Currently Open To:
 
-Let’s build something great — with **code that informs, inspires, and drives change**.
+- 💼 **Internships** or full-time roles in **Data Science**, **Frontend**, or **Full Stack** development  
+- 🤝 Collaborations on impactful, purpose-driven tech and research projects
+
+Let’s build something great — with **code that informs, inspires, and drives change** 💡
 
 ---
